@@ -29,4 +29,4 @@ The following command should print 5 items:
 ## *Output*
 The following code shows how to output the script to a text file using powershell:
 
-`python3 script.py user 500 > file.txt`
+`python script.py user 500 > file.txt`
