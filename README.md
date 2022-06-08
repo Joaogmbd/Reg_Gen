@@ -8,7 +8,7 @@ The original objective is to populate Prolog KBs. <br>
 It works with 2 parameters:
 
 **argv[1]** is the first atom's name of our predicate.
-**argv[2]** is the maximum range of our script.
+**argv[2]** is the maximum range of registers.
 
 (first atom will concatenate with the range, starting from 0)
 ## **Example**
