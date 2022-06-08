@@ -18,10 +18,10 @@ This script works with 2 parameters:
  
 
     register('user0', '36930211').
-	  register('user1', '49457398').
-	  register('user2', '68248168').
-	  register('user3', '44565303').
-	  register('user4', '80362601').
+	register('user1', '49457398').
+	register('user2', '68248168').
+	register('user3', '44565303').
+	register('user4', '80362601').
 
 
 
