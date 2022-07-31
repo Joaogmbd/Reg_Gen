@@ -1,6 +1,6 @@
 
 # Reg_Gen
-Simple python script that generates a pre-defined range of phone numbers.
+Simple python script that generates a pre-defined range of random numbers.
 The original objective is to populate Prolog KBs. <br>
 
 ## **Usage**
