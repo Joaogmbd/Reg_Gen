@@ -27,6 +27,6 @@ The following command should print 5 items:
 
 
 ## *Output*
-The following line shows exemplifies how to output the script to a text file using cli:
+The following line exemplifies how to output the script to a text file using cli:
 
     PS>python script.py user 500 > file.txt
